@@ -5,4 +5,5 @@
 4) боты в соц-сетях для управления(возможно вместо приложений,так как они легче и доступнее)
 5) управления множеством устройств - "Лампочки,розетки,температура,чайник,телевизоры и конечно же КОФЕВАРКА!"
 
-note: current .txt file can be modified and improved by another users
+note: current .txt file can be modified and improved by another users]
+note for second commit
